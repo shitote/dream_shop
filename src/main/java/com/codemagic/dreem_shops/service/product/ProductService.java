@@ -1,4 +1,5 @@
 package com.codemagic.dreem_shops.service.product;
 
-public class ProductService {
+public class ProductService implements IProductService {
+
 }
